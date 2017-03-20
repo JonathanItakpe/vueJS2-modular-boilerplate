@@ -1,4 +1,4 @@
-# vue2-modular-boilerplate
+# vueJS2-modular-app-boilerplate
 
 > Template for Building large Apps with Modules and Multiple vuex stores
 
