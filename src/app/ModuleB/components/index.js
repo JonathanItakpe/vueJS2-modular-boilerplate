@@ -1,0 +1,1 @@
+export { default as ModuleBComponent } from './ModuleBComponent';
